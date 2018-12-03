@@ -3,5 +3,9 @@ C
 C
 C
 git iiiiijjjj
+<<<<<<< HEAD
 njjii1111
 j
+=======
+DDDnjjiij
+>>>>>>> f
